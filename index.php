@@ -34,7 +34,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
+                    <span class="sr-only"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -70,8 +70,8 @@
                 <h1>Quieres rapidez <br> Quieres Tel-Web</h1>
                 <br>
                 <br>
-                <p>+1 millon de personas se unieron, solo faltas tu!</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Iniciar Sesion</a>
+                <p>+1 millon de personas se unieron, solo faltas tu!<br>Unete a nosotros y disfruta de los mejores planes y servicios en redes y telefonia.<br>¿Que esperas?</p>
+                <a href="#planes" class="btn btn-primary btn-xl page-scroll">Conoce Mas!</a>
             </div>
         </div>
     </header>
@@ -121,7 +121,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
                         <h3>Multimedia</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <p class="text-muted">Videos, Imagenes.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -244,19 +244,49 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                <br>
+                
+
+                    <h2 class="section-heading">CONTACTANOS!</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <br>
+                    <br>
+                <br>
+                    <p>Si quieres saber mas de nosotros, alguna sugerencia, duda o pertenecer a nuestra plantilla,<br>te invitamos a que nos contactes te responderemos lo mas pronto posible!</p>
+                    <br>
+                    <br>
+                    <br>
                 </div>
+                <br>
+                <br>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x wow bounceIn"></i>
                     <p>123-456-6789</p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
+                    <p><a href="mailto:your-email@your-domain.com">contacto@telweb.com</a></p>
+                </div>
+                  <br>
+                    <br>
+                    <br>
+                    <br>
+                <div>
+                    <div class="col-lg-3 text-center">
+                    <a class="fa fa-twitter-square fa-3x wow bounceIn"></a>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <a class="fa fa-facebook-square fa-3x wow bounceIn"></a>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <a class="fa fa-instagram fa-3x wow bounceIn"></a>
+                </div>
+                <div class="col-lg-3 text-center">
+                    <a class="fa fa-youtube-play fa-3x wow bounceIn"></a>
                 </div>
             </div>
+            <br>
+            <br>
         </div>
     </section>
 <!--Jquery-->

@@ -742,3 +742,26 @@ FIN DE PARA QUE NO MUESTRE EL BORDE DE COLOR AZUL PREDETERMINADO EN BOOTSTRAP*/
 }
 /*FIN EFECTO HOVER PLANES*/
 /*MODIFICADO 26-04-2016*/
+#telefonos{
+    background-color: #5964b3;
+}
+.catalogo{
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    background-color: #5964b3;
+    background-image: url(../../images/smartphonesblue.jpg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: 100%;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+}
+@media only screen and (max-width: 767px) {
+.catalogo{
+    background-image: url(../../images/smartphonesblue.jpg);
+  }
+    }
