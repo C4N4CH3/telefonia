@@ -139,7 +139,7 @@
         <div class="container-fluid">
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6"  align="center">
-                    <a href="#" class="portfolio-box">
+                    <div class="portfolio-box">
                         <img src="images/portfolio/1.jpg" class="img-responsive" alt="" style="height: 242px;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -147,14 +147,14 @@
                                     SAMSUNG
                                 </div>
                                 <div class="project-category text-faded">
-                                    Project Name
+                                    Galaxy, Ace, Gran Prime.
                                 </div>
                             </div>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" align="center">
-                    <a href="#" class="portfolio-box">
+                    <div class="portfolio-box">
                         <img src="images/portfolio/2.jpg" class="img-responsive" alt="" style="height: 242px;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -162,14 +162,14 @@
                                     IPHONE
                                 </div>
                                 <div class="project-category text-faded">
-                                    Project Name
+                                    4, 4s, 5, 5s, 5c, 6, 6s
                                 </div>
                             </div>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" align="center">
-                    <a href="#" class="portfolio-box">
+                    <div class="portfolio-box">
                         <img src="images/portfolio/3.jpg" class="img-responsive" alt="" style="height: 242px;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -177,14 +177,14 @@
                                     LG
                                 </div>
                                 <div class="project-category text-faded">
-                                    G3
+                                    G5, Optimus
                                 </div>
                             </div>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" align="center">
-                    <a href="#" class="portfolio-box">
+                    <div class="portfolio-box">
                         <img src="images/portfolio/4.jpg" class="img-responsive" alt="" style="height: 242px;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -196,10 +196,10 @@
                                 </div>
                             </div>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" align="center">
-                    <a href="#" class="portfolio-box">
+                    <div class="portfolio-box">
                         <img src="images/portfolio/5.jpeg" class="img-responsive" alt="" style="height: 242px;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -207,14 +207,14 @@
                                     HUAWEI
                                 </div>
                                 <div class="project-category text-faded">
-                                    Project Name
+                                    Ascend, Mate, Honor.
                                 </div>
                             </div>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" align="center">
-                    <a href="#" class="portfolio-box">
+                    <div class="portfolio-box">
                         <img src="images/portfolio/6.png" class="img-responsive" alt="" style="height: 242px;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -226,7 +226,7 @@
                             </div>
                         </div>
                     </a>
-                </div>
+                </didiv>
             </div>
         </div>
     </section>
@@ -234,7 +234,7 @@
     <aside class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
-                <h2>¿Buscas otras marcas?</h2>
+                <h2>Ingresa aqui para ver los equipos en detalle</h2>
                 <a href="catalogo.php" class="btn btn-primary btn-xl wow tada">Catalogo</a>
             </div>
         </div>
